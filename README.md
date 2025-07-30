@@ -1,7 +1,7 @@
 # DALA
 <time datetime="2025-07-23">[2025.7.23]</time> The paper "Efficient video polyp segmentation by Deformable Alignment and Local Attention" has been accepted by The IEEE Journal of Biomedical and Health Informatics. The Early Access version of the article is available at https://ieeexplore.ieee.org/document/11097024. 
 
-<time datetime="2025-07-30">[20257.30]</time> Supplementary materials for the article have been uploaded to this project repository.
+<time datetime="2025-07-30">[2025.7.30]</time> Supplementary materials for the article have been uploaded to this project repository.
 
 Our team is currently organizing the code and will upload it gradually in the future！
 # Prediction
