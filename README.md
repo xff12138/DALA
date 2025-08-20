@@ -9,4 +9,10 @@ You can find the prediction of DALA in [Google Drive](https://drive.google.com/f
 
 If you want to work with us or need any help, please feel free to contact us.
 If you find it's useful for you, please consider citing our work:
-`<hello world>` 
+> @article{sun2025multimodal,
+  title={Multimodal Sentiment Analysis with Mutual Information-based Disentangled Representation Learning},
+  author={Sun, Hao and Niu, Ziwei and Wang, Hongyi and Yu, Xinyao and Liu, Jiaqing and Chen, Yen-Wei and Lin, Lanfen},
+  journal={IEEE Transactions on Affective Computing},
+  year={2025},
+  publisher={IEEE}
+}  
