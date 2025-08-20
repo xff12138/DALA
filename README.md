@@ -30,4 +30,4 @@ If you find it's useful for you, please consider citing our work:
 ```
 
 #  Acknowledgement
-We are very grateful for these excellent works [VPS](https://github.com/GewelsJI/VPS), which have provided the basis for our framework.
+We are very grateful for the excellent work [VPS](https://github.com/GewelsJI/VPS), which have provided the basis for our framework.
