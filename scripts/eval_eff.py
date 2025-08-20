@@ -5,7 +5,7 @@ from ptflops import get_model_complexity_info
 
 import torch
 
-from lib.module.PNSPlusNetwork import PNSNet as Network
+from lib.module.DALA_Cnano import DALA as Network
 
 
 def computeTime(model, inputs, device='cuda'):
