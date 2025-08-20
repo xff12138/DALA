@@ -9,4 +9,11 @@ You can find the prediction of DALA in [Google Drive](https://drive.google.com/f
 
 If you want to work with us or need any help, please feel free to contact us.
 If you find it's useful for you, please consider citing our work:
-```@article{zhao2025DALA,```
+```
+@article{zhao2025DALA,
+  title={Multimodal Sentiment Analysis with Mutual Information-based Disentangled Representation Learning},
+  author={Zhao, Yifei and Wang, Xiaoying and Yin, Junping},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2025},
+  publisher={IEEE}
+```
