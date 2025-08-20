@@ -4,8 +4,13 @@
 <time datetime="2025-07-30">[2025.7.30]</time> Supplementary materials for the article have been uploaded to this project repository.
 
 
+# Dataset
+You can request and download SUN-SEG dataset from https://github.com/GewelsJI/VPS.
+
+
 # Prediction
 You can find the prediction of DALA in [Google Drive](https://drive.google.com/file/d/1Px0-5oFQEH5rYIC32SM8wUFUBz_qLeOY/view?usp=drive_link) and [Baidu Netdisk](https://pan.baidu.com/s/11tmC32KuMO3OElcbS_pfLA) (2629).
+
 
 If you want to work with us or need any help, please feel free to contact us.
 If you find it's useful for you, please consider citing our work:
